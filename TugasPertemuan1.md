@@ -1,5 +1,7 @@
 Nama : Yurika Budiarti
+
 NPM: 41155050210047
+
 Kelas : TIF-A2
 
 1.2. Tuliskan nama dan nomor NPM anda pada Jupiter Notebook.
