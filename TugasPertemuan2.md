@@ -1,4 +1,5 @@
-Nama : Yurika Budiarti Kelas : TIF-A2
+Nama : Yurika Budiarti
+kelas: TIF-A2
 NPM : 41155050210047
 Tugas Pertemuan 2
 
